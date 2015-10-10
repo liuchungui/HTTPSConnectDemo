@@ -1,0 +1,2 @@
+# HTTPSConnectDemo
+使用OC和Swift两种语言，通过NSURLSession进行HTTPS验证
